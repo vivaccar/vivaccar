@@ -1,11 +1,11 @@
-Hey, I'm Vinicius Vaccari 👋
+Welcome to Vinicius Vaccari GitHub! 👋
 
 <div align="center">
 
-[![Vinicius Vaccari's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivaccar&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/vivaccar?tab=repositories) [![vivaccar's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivaccar&layout=compact&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/vivaccar?tab=repositories)
+[![marcelofassbinder's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelofassbinder&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/marcelofassbinder?tab=repositories) [![marcelofassbinder's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelofassbinder&layout=compact&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/marcelofassbinder?tab=repositories)
 
 <p align="center">
-    <img alt="vivaccar's visitors" src="https://komarev.com/ghpvc/?username=vivaccar&color=8c36db&style=flat&label=visitors" />
+    <img alt="marcelofassbinder's visitors" src="https://komarev.com/ghpvc/?username=marcelofassbinder&color=8c36db&style=flat&label=visitors" />
 </p>
 
 </div>
