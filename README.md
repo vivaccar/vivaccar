@@ -1,4 +1,10 @@
-Welcome to Vinicius Vaccari GitHub! 👋
+# 👋 Hello! My name is Vinícius Vaccari. 
+### I'm Brazilian 🇧🇷 and currently residing in Porto, Portugal 🇵🇹.
+- 👀 I'm delving into the fascinating realm of programming at 42Porto school.
+- 🌱 Currently, navigating through the territories of C, C++, and Python.
+- 📫 You can find me on Instagram [@vinihehn](https://www.instagram.com/vinihehn/) or on LinkedIn [Vinicius Vaccari](https://www.linkedin.com/in/vinicius-vaccari).
+
+Let's embark on a coding journey together and explore the bytes of this digital universe! 💻✨
 
 <div align="center">
 
@@ -9,10 +15,7 @@ Welcome to Vinicius Vaccari GitHub! 👋
 </p>
 
 </div>
-- 👋 I am Brazilian :brazil:, and I live in Porto, Portugal :portugal:.\n
-- 👀 I am studying programming at 42Porto school.\n
-- 🌱 I’m currently learning C, C++, Python.\n
-- 📫 You can find me on Instagram @vinihehn or on LinkedIn at www.linkedin.com/in/vinicius-vaccari.
+
 
 <!---
 vivaccar/vivaccar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
