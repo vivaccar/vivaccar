@@ -9,9 +9,9 @@ Welcome to Vinicius Vaccari GitHub! 👋
 </p>
 
 </div>
-- 👋 I am Brazilian :brazil:, and I live in Porto, Portugal :portugal:.
-- 👀 I am studying programming at 42Porto school.
-- 🌱 I’m currently learning C, C++, Python.
+- 👋 I am Brazilian :brazil:, and I live in Porto, Portugal :portugal:.\n
+- 👀 I am studying programming at 42Porto school.\n
+- 🌱 I’m currently learning C, C++, Python.\n
 - 📫 You can find me on Instagram @vinihehn or on LinkedIn at www.linkedin.com/in/vinicius-vaccari.
 
 <!---
