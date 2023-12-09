@@ -12,9 +12,16 @@ Let's embark on a coding journey together and explore the bytes of this digital 
 
 <p align="center">
     <img alt="vivaccar's visitors" src="https://komarev.com/ghpvc/?username=vivaccar&color=8c36db&style=flat&label=visitors" />
+
 </p>
 
 </div>
+
+# Languages
+[![My Skills](https://skillicons.dev/icons?i=c,py)](https://skillicons.dev)
+
+# Tools
+[![My Skills](https://skillicons.dev/icons?i=bash,cmake,git,github,linkedin,linux,vim,vscode,wordpress)](https://skillicons.dev)
 
 
 <!---
