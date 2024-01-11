@@ -1,30 +1,20 @@
-# 👋 Hello! My name is Vinícius Vaccari. 
-### I'm Brazilian 🇧🇷 and currently residing in Porto, Portugal 🇵🇹.
-- 👀 I'm delving into the fascinating realm of programming at 42Porto school.
-- 🌱 Currently, navigating through the territories of C, C++, and Python.
-- 📫 You can find me on Instagram [@vinihehn](https://www.instagram.com/vinihehn/) or on LinkedIn [Vinicius Vaccari](https://www.linkedin.com/in/vinicius-vaccari).
+# 👋 Hello! I'm Vinícius Vaccari 🇧🇷, currently residing in Porto, Portugal 🇵🇹.
 
-Let's embark on a coding journey together and explore the bytes of this digital universe! 💻✨
+- 🚀 Diving into the fascinating world of programming at 42Porto school.
+- 💻 Exploring the territories of C, C++, and Python.
+- 🌐 Let's embark on a coding journey together and explore the bytes of this digital universe! 
 
-<div align="center">
+## Connect with Me
 
-[![vivaccar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivaccar&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/vivaccar?tab=repositories) [![vivaccar's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivaccar&layout=compact&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/vivaccar?tab=repositories)
+- Instagram: [@vinihehn](https://www.instagram.com/vinihehn/)
+- LinkedIn: [Vinicius Vaccari](https://www.linkedin.com/in/vinicius-vaccari)
 
-<p align="center">
-    <img alt="vivaccar's visitors" src="https://komarev.com/ghpvc/?username=vivaccar&color=8c36db&style=flat&label=visitors" />
+## GitHub Stats
 
-</p>
+[![vivaccar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivaccar&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/vivaccar?tab=repositories) 
+[![vivaccar's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivaccar&layout=compact&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/vivaccar?tab=repositories)
 
-</div>
+## Languages & Skills
 
-# Languages
 [![My Skills](https://skillicons.dev/icons?i=c,py)](https://skillicons.dev)
 
-# Tools
-[![My Skills](https://skillicons.dev/icons?i=bash,cmake,git,github,linkedin,linux,vim,vscode,wordpress)](https://skillicons.dev)
-
-
-<!---
-vivaccar/vivaccar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
