@@ -1,12 +1,11 @@
-# 👋 Hello! I'm Vinícius Vaccari 🇧🇷, currently residing in Porto, Portugal 🇵🇹.
+# 👋 Hello! I'm Vinícius Vaccari.
 
-- 🚀 Diving into the fascinating world of programming at 42Porto school.
-- 💻 Exploring the territories of C, C++, and Python.
-- 🌐 Let's embark on a coding journey together and explore the bytes of this digital universe! 
+- Software Developer, with a strong foundation in C/C++, Python and a growing focus on backend and embedded systems.
+
+💻 Tech Stack: C, C++, Embedded Sysytems, TypeScript, Node.js, Docker, PostgreSQL, Git
 
 ## Connect with Me
 
-- Instagram: [@vinihehn](https://www.instagram.com/vinihehn/)
 - LinkedIn: [Vinicius Vaccari](https://www.linkedin.com/in/vinicius-vaccari)
 
 ## GitHub Stats
@@ -16,5 +15,5 @@
 
 ## Languages & Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,postgres,docker,git)](https://skillicons.dev)
 
